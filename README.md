@@ -1,6 +1,6 @@
 # newsletter
 
-https://charalampossam.github.io/newletter/
+https://charalampossam.github.io/newsletter/
 
 Design & Development
 
